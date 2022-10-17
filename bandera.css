@@ -1,0 +1,41 @@
+.parent {
+    border: 2px black dotted;
+    display: inline-block;
+}
+.box {
+    display: inline-block;
+    background: blue;
+    width: 200px;
+    height: 200px;
+}
+#one {
+    top: 20px;
+    left: 20px;
+    background: yellow;
+    position: relative; 
+}
+#two {
+    top: 20px;
+    left: 20px;
+    background: blue;
+    position: relative; 
+}
+#three {
+    top: 20px;
+    left: 20px;
+    background: red;
+    position: relative; 
+}
+/*#four {
+    top: 20px;
+    left: 20px;
+    background: green;
+    position: relative; 
+}
+#five {
+    top: 20px;
+    left: 20px;
+    background: green;
+    position: relative; 
+}
+*/
